@@ -70,7 +70,9 @@ The notebook includes:
 
 ## Project Structure
 ├── social-media-wellbeing-analysis.ipynb
+
 ├── train.csv
+
 └── README.md
 
 ---
