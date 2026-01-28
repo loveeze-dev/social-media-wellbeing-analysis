@@ -99,7 +99,7 @@ Key variables include:
 ---
 
 ## Key Takeaways
-This analysis shows that social media engagement can enhance happiness through interaction and validation, but excessive or compulsive use—particularly messaging—correlates with increased anxiety.
+This analysis shows that social media engagement can enhance happiness through interaction and validation, but excessive or compulsive use (particularly messaging) correlates with increased anxiety.
 
 The findings highlight the importance of:
 - Moderation in daily usage
